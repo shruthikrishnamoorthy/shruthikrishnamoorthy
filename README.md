@@ -1,3 +1,4 @@
+[![MasterHead](https://www.canva.com/design/DAE86Ce31Jk/GZbMd-CQOrwpWddQU2Kk8A/edit?utm_content=DAE86Ce31Jk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hello, Folks!👋, I'm Shruthi Krishnamoorthy</h1>
 <h3 align="center">A CSE fresher passionate about Webdevelopment and enthusiastic to dive into the huge Tech world.</h3>
 
