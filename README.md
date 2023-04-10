@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, Folks!👋, I'm Shruthi Krishnamoorthy</h1>
-<h3 align="center">A CSE fresher passionate about Webdevelopment and enthusiastic to dive into the huge Tech world.</h3>
+<h3 align="center">A CSE student passionate about Webdevelopment and enthusiastic to dive into the huge Tech world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruthikrishnamoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="shruthikrishnamoorthy" /> </p>
 
