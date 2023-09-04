@@ -9,12 +9,7 @@
 <p align="left"> <a href="https://twitter.com/shruthii_13" target="blank"><img src="https://img.shields.io/twitter/follow/shruthii_13?logo=twitter&style=for-the-badge" alt="shruthii_13" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966">
 
-- 🌱 I’m currently learning **Full Stack Web Development from Udemy: The Complete 2022 Web Development Bootcamp by Dr Angela Yu**
-
-- 📫 How to reach me **shruthi.krishnamoorthy13@gmail.com**
-
-- ⚡ Fun fact **I think chocolate will be my last meal on Earth**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shruthii_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shruthii_13" height="30" width="40" /></a>
